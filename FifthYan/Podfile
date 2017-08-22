@@ -1,0 +1,14 @@
+platform :ios, "9.0"
+use_frameworks!
+
+target 'FifthYan' do
+
+pod 'AFNetworking'
+pod 'SwiftyJSON'
+pod 'Kingfisher', '~>3.3.4'
+pod 'MJRefresh'
+pod 'SVProgressHUD'
+pod 'IQKeyboardManagerSwift'
+pod 'Alamofire', '~> 4.3.0'
+
+end
